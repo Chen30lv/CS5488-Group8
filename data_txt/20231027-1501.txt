@@ -1,0 +1,31 @@
+Time: Fri, 27 Oct 2023 06:02:00 GMT
+Air Temperature: 29 degrees Celsius
+Relative Humidity: 70 per cent
+Air Temperatures at Other Places:
+Hong Kong Observatory 29 degrees
+King's Park 29 degrees
+Wong Chuk Hang 30 degrees
+Ta Kwu Ling 30 degrees
+Lau Fau Shan 29 degrees
+Tai Po 29 degrees
+Sha Tin 29 degrees
+Tuen Mun 30 degrees
+Tseung Kwan O 29 degrees
+Sai Kung 28 degrees
+Cheung Chau 28 degrees
+Chek Lap Kok 29 degrees
+Tsing Yi 29 degrees
+Shek Kong 31 degrees
+Tsuen Wan Ho Koon 28 degrees
+Tsuen Wan Shing Mun Valley 28 degrees
+Hong Kong Park 28 degrees
+Shau Kei Wan 27 degrees
+Kowloon City 29 degrees
+Happy Valley 30 degrees
+Wong Tai Sin 29 degrees
+Stanley 27 degrees
+Kwun Tong 28 degrees
+Sham Shui Po 30 degrees
+Kai Tak Runway Park 28 degrees
+Yuen Long Park 31 degrees
+Rainfall Recorded in Various Regions:

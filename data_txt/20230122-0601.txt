@@ -1,0 +1,39 @@
+Time: Sat, 21 Jan 2023 21:02:00 GMT
+Air Temperature: 17 degrees Celsius
+Relative Humidity: 89 per cent
+Air Temperatures at Other Places:
+Hong Kong Observatory 17 degrees
+King's Park 16 degrees
+Wong Chuk Hang 17 degrees
+Ta Kwu Ling 16 degrees
+Lau Fau Shan 16 degrees
+Tai Po 16 degrees
+Sha Tin 17 degrees
+Tuen Mun 17 degrees
+Tseung Kwan O 16 degrees
+Sai Kung 16 degrees
+Cheung Chau 16 degrees
+Chek Lap Kok 17 degrees
+Tsing Yi 18 degrees
+Shek Kong 17 degrees
+Tsuen Wan Ho Koon 16 degrees
+Tsuen Wan Shing Mun Valley 17 degrees
+Hong Kong Park 16 degrees
+Shau Kei Wan 16 degrees
+Kowloon City 16 degrees
+Happy Valley 16 degrees
+Wong Tai Sin 17 degrees
+Stanley 17 degrees
+Kwun Tong 16 degrees
+Sham Shui Po 17 degrees
+Kai Tak Runway Park 17 degrees
+Yuen Long Park 16 degrees
+Rainfall Recorded in Various Regions:
+Wan Chai 1 to 3 mm
+Kwun Tong 0 to 5 mm
+Southern District 0 to 3 mm
+Eastern District 0 to 2 mm
+Kowloon City 0 to 2 mm
+Sai Kung 0 to 2 mm
+Central & Western District 0 to 1 mm
+Islands District 0 to 1 mm

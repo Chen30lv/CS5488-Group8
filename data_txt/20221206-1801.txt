@@ -1,0 +1,31 @@
+Time: Tue, 06 Dec 2022 09:02:00 GMT
+Air Temperature: 19 degrees Celsius
+Relative Humidity: 69 per cent
+Air Temperatures at Other Places:
+Hong Kong Observatory 19 degrees
+King's Park 18 degrees
+Wong Chuk Hang 19 degrees
+Ta Kwu Ling 16 degrees
+Lau Fau Shan 17 degrees
+Tai Po 17 degrees
+Sha Tin 18 degrees
+Tuen Mun 18 degrees
+Tseung Kwan O 17 degrees
+Sai Kung 17 degrees
+Cheung Chau 18 degrees
+Chek Lap Kok 17 degrees
+Tsing Yi 19 degrees
+Shek Kong 17 degrees
+Tsuen Wan Ho Koon 16 degrees
+Tsuen Wan Shing Mun Valley 18 degrees
+Hong Kong Park 19 degrees
+Shau Kei Wan 17 degrees
+Kowloon City 17 degrees
+Happy Valley 19 degrees
+Wong Tai Sin 18 degrees
+Stanley 18 degrees
+Kwun Tong 17 degrees
+Sham Shui Po 19 degrees
+Kai Tak Runway Park 19 degrees
+Yuen Long Park 17 degrees
+Rainfall Recorded in Various Regions:

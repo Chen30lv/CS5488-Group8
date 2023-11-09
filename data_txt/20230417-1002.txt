@@ -1,0 +1,31 @@
+Time: Mon, 17 Apr 2023 01:02:00 GMT
+Air Temperature: 26 degrees Celsius
+Relative Humidity: 80 per cent
+Air Temperatures at Other Places:
+Hong Kong Observatory 26 degrees
+King's Park 26 degrees
+Wong Chuk Hang 27 degrees
+Ta Kwu Ling 25 degrees
+Lau Fau Shan 26 degrees
+Tai Po 26 degrees
+Sha Tin 26 degrees
+Tuen Mun 26 degrees
+Tseung Kwan O 26 degrees
+Sai Kung 27 degrees
+Cheung Chau 26 degrees
+Chek Lap Kok 26 degrees
+Tsing Yi 27 degrees
+Shek Kong 25 degrees
+Tsuen Wan Ho Koon 25 degrees
+Tsuen Wan Shing Mun Valley 25 degrees
+Hong Kong Park 25 degrees
+Shau Kei Wan 27 degrees
+Kowloon City 27 degrees
+Happy Valley 27 degrees
+Wong Tai Sin 27 degrees
+Stanley 26 degrees
+Kwun Tong 26 degrees
+Sham Shui Po 27 degrees
+Kai Tak Runway Park 25 degrees
+Yuen Long Park 28 degrees
+Rainfall Recorded in Various Regions:

@@ -1,0 +1,47 @@
+Time: Sun, 08 Oct 2023 15:51:00 GMT
+Air Temperature: 25 degrees Celsius
+Relative Humidity: 92 per cent
+Air Temperatures at Other Places:
+Hong Kong Observatory 25 degrees
+King's Park 24 degrees
+Wong Chuk Hang 25 degrees
+Ta Kwu Ling 23 degrees
+Tai Po 24 degrees
+Sha Tin 25 degrees
+Tuen Mun 22 degrees
+Tseung Kwan O 25 degrees
+Sai Kung 26 degrees
+Cheung Chau 24 degrees
+Chek Lap Kok 23 degrees
+Tsing Yi 24 degrees
+Tsuen Wan Ho Koon 24 degrees
+Tsuen Wan Shing Mun Valley 23 degrees
+Hong Kong Park 24 degrees
+Shau Kei Wan 24 degrees
+Kowloon City 24 degrees
+Happy Valley 25 degrees
+Wong Tai Sin 25 degrees
+Stanley 25 degrees
+Kwun Tong 24 degrees
+Sham Shui Po 24 degrees
+Kai Tak Runway Park 25 degrees
+Yuen Long Park 22 degrees
+Rainfall Recorded in Various Regions:
+Eastern District 8 to 14 mm
+Wong Tai Sin 7 to 9 mm
+Kowloon City 7 to 8 mm
+Yau Tsim Mong 6 to 8 mm
+Sham Shui Po 6 to 7 mm
+Kwai Tsing 4 to 7 mm
+Kwun Tong 4 to 11 mm
+Islands District 3 to 33 mm
+Sha Tin 2 to 9 mm
+Wan Chai 16 to 18 mm
+Southern District 12 to 22 mm
+Sai Kung 1 to 9 mm
+Tsuen Wan 1 to 5 mm
+North District 1 to 3 mm
+Tai Po 0 to 9 mm
+Yuen Long 0 to 6 mm
+Tuen Mun 0 to 3 mm
+Central & Western District 0 to 23 mm

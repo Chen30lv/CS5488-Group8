@@ -1,0 +1,49 @@
+Time: Tue, 18 Oct 2022 13:02:00 GMT
+Air Temperature: 18 degrees Celsius
+Relative Humidity: 89 per cent
+Air Temperatures at Other Places:
+Hong Kong Observatory 18 degrees
+King's Park 17 degrees
+Wong Chuk Hang 18 degrees
+Ta Kwu Ling 17 degrees
+Lau Fau Shan 16 degrees
+Tai Po 17 degrees
+Sha Tin 18 degrees
+Tuen Mun 16 degrees
+Tseung Kwan O 17 degrees
+Sai Kung 18 degrees
+Cheung Chau 16 degrees
+Chek Lap Kok 18 degrees
+Tsing Yi 17 degrees
+Shek Kong 17 degrees
+Tsuen Wan Ho Koon 15 degrees
+Tsuen Wan Shing Mun Valley 16 degrees
+Hong Kong Park 17 degrees
+Shau Kei Wan 17 degrees
+Kowloon City 17 degrees
+Happy Valley 18 degrees
+Wong Tai Sin 17 degrees
+Stanley 18 degrees
+Kwun Tong 17 degrees
+Sham Shui Po 17 degrees
+Kai Tak Runway Park 18 degrees
+Yuen Long Park 17 degrees
+Rainfall Recorded in Various Regions:
+Central &amp; Western District 2 to 4 mm
+Kwai Tsing 2 to 4 mm
+Kwun Tong 2 to 3 mm
+Sham Shui Po 2 to 3 mm
+Wan Chai 2 to 3 mm
+Tuen Mun 1 to 5 mm
+Sha Tin 1 to 3 mm
+Wong Tai Sin 1 to 3 mm
+Kowloon City 1 to 2 mm
+Yau Tsim Mong 1 to 2 mm
+Islands District 0 to 8 mm
+Yuen Long 0 to 4 mm
+Southern District 0 to 3 mm
+Tai Po 0 to 3 mm
+Tsuen Wan 0 to 3 mm
+Sai Kung 0 to 2 mm
+Eastern District 0 to 1 mm
+North District 0 to 1 mm

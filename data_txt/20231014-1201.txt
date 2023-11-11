@@ -1,6 +1,8 @@
-Time: Sat, 14 Oct 2023 03:02:00 GMT
+Time: 2023-10-14 11:02:00
 Air Temperature: 28 degrees Celsius
 Relative Humidity: 56 per cent
+the mean UV Index recorded at King's Park : 6
+remind that: The Fire Danger Warning is Yellow and the fire risk is high.
 Air Temperatures at Other Places:
 Hong Kong Observatory 28 degrees
 King's Park 28 degrees

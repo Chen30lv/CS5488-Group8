@@ -1,6 +1,8 @@
-Time: Wed, 30 Aug 2023 09:41:00 GMT
+Time: 2023-08-30 17:41:00
 Air Temperature: 31 degrees Celsius
 Relative Humidity: 65 per cent
+the mean UV Index recorded at King's Park : 1
+remind that: The Tropical Cyclone Signal No. 1 was issued at 5:40 p.m.
 Air Temperatures at Other Places:
 Hong Kong Observatory 31 degrees
 King's Park 31 degrees

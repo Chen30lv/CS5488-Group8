@@ -1,6 +1,8 @@
-Time: Tue, 14 Feb 2023 08:21:00 GMT
+Time: 2023-02-14 16:21:00
 Air Temperature: 20 degrees Celsius
 Relative Humidity: 54 per cent
+the mean UV Index recorded at King's Park : 2
+remind that: The Cold Weather Warning was issued at 4:20 p.m. Cold weather might cause adverse health effects. Members of the public should take care to keep warm.
 Air Temperatures at Other Places:
 Hong Kong Observatory 20 degrees
 King's Park 19 degrees

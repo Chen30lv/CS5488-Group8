@@ -1,6 +1,8 @@
-Time: Tue, 21 Feb 2023 01:31:00 GMT
+Time: 2023-02-21 09:31:00
 Air Temperature: 17 degrees Celsius
 Relative Humidity: 61 per cent
+the mean UV Index recorded at King's Park : 0.7
+remind that: The Red Fire Danger Warning was issued at 9:30 a.m. and the fire risk is extreme.
 Air Temperatures at Other Places:
 Hong Kong Observatory 17 degrees
 King's Park 17 degrees

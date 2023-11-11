@@ -1,6 +1,8 @@
-Time: Sat, 31 Dec 2022 00:02:00 GMT
+Time: 2022-12-31 08:02:00
 Air Temperature: 12 degrees Celsius
 Relative Humidity: 71 per cent
+the mean UV Index recorded at King's Park : 0.1
+remind that: The Fire Danger Warning is Yellow and the fire risk is high.<br/>The Cold Weather Warning is now in force. Cold weather might cause adverse health effects. Members of the public should take care to keep warm.
 Air Temperatures at Other Places:
 Hong Kong Observatory 12 degrees
 King's Park 12 degrees

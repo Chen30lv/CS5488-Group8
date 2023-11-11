@@ -1,6 +1,8 @@
-Time: Wed, 05 Jul 2023 09:02:00 GMT
+Time: 2023-07-05 17:02:00
 Air Temperature: 32 degrees Celsius
 Relative Humidity: 72 per cent
+the mean UV Index recorded at King's Park : 3
+remind that: The Very Hot Weather Warning is now in force. Prolonged heat alert! Please drink sufficient water. If feeling unwell, take rest or seek help immediately. If needed, seek medical advice as soon as possible.
 Air Temperatures at Other Places:
 Hong Kong Observatory 32 degrees
 King's Park 31 degrees

@@ -1,6 +1,8 @@
-Time: Mon, 16 Jan 2023 20:02:00 GMT
+Time: 2023-01-17 04:02:00
 Air Temperature: 12 degrees Celsius
 Relative Humidity: 79 per cent
+the mean UV Index recorded at King's Park : NONE
+remind that: The Cold Weather Warning is now in force. Cold weather might cause adverse health effects. Members of the public should take care to keep warm.
 Air Temperatures at Other Places:
 Hong Kong Observatory 12 degrees
 King's Park 11 degrees

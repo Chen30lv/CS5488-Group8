@@ -1,6 +1,8 @@
-Time: Mon, 11 Sep 2023 03:41:00 GMT
+Time: 2023-09-11 11:41:00
 Air Temperature: 27 degrees Celsius
 Relative Humidity: 94 per cent
+the mean UV Index recorded at King's Park : 1
+remind that: The Thunderstorm Warning has been issued. It will remain effective until 1:30 p.m. today. Isolated thunderstorms are expected to occur over Hong Kong.<br/>The Landslip Warning has been issued.
 Air Temperatures at Other Places:
 Hong Kong Observatory 27 degrees
 King's Park 27 degrees

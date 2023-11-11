@@ -1,6 +1,8 @@
-Time: Mon, 04 Sep 2023 06:02:00 GMT
+Time: 2023-09-04 14:02:00
 Air Temperature: 32 degrees Celsius
 Relative Humidity: 66 per cent
+the mean UV Index recorded at King's Park : 6
+remind that: The Tropical Cyclone Signal No. 1 has been issued.<br/>The Very Hot Weather Warning is now in force. The public should beware of heat stroke and drink more water.
 Air Temperatures at Other Places:
 Hong Kong Observatory 32 degrees
 King's Park 32 degrees

@@ -1,6 +1,8 @@
-Time: Fri, 08 Sep 2023 06:02:00 GMT
+Time: 2023-09-08 14:02:00
 Air Temperature: 25 degrees Celsius
 Relative Humidity: 93 per cent
+the mean UV Index recorded at King's Park : 1
+remind that: The Black Rainstorm Warning Signal has been issued.<br/>The Thunderstorm Warning has been issued. It will remain effective until 4:00 p.m. today. Squally thunderstorms are expected to occur over Hong Kong.<br/>The Landslip Warning has been issued.<br/>The Special Announcement of Flooding in Northern New Territories has been issued.
 Air Temperatures at Other Places:
 Hong Kong Observatory 25 degrees
 King's Park 25 degrees

@@ -1,6 +1,8 @@
-Time: Wed, 31 May 2023 10:21:00 GMT
+Time: 2023-05-31 18:21:00
 Air Temperature: 32 degrees Celsius
 Relative Humidity: 72 per cent
+the mean UV Index recorded at King's Park : 0.4
+remind that: The Thunderstorm Warning was issued at 6:20 p.m. It will remain effective until 8:30 p.m. today. A few squally thunderstorms are expected to occur over New Territories West.<br/>The Very Hot Weather Warning is now in force. Prolonged heat alert! Please drink sufficient water. If feeling unwell, take rest or seek help immediately. If needed, seek medical advice as soon as possible.
 Air Temperatures at Other Places:
 Hong Kong Observatory 32 degrees
 King's Park 31 degrees

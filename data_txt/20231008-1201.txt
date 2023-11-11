@@ -1,6 +1,8 @@
-Time: Sun, 08 Oct 2023 03:15:00 GMT
+Time: 2023-10-08 11:15:00
 Air Temperature: 24 degrees Celsius
 Relative Humidity: 91 per cent
+the mean UV Index recorded at King's Park : 2
+remind that: The Tropical Cyclone Signal No. 3 has been issued.<br/>The Hong Kong Observatory announces that the Tropical Cyclone Warning Signal Number 8 will be issued at 12:40 p.m. today (8 Oct 2023). Winds locally will strengthen further.
 Air Temperatures at Other Places:
 Hong Kong Observatory 24 degrees
 King's Park 23 degrees

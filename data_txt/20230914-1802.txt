@@ -1,6 +1,8 @@
-Time: Thu, 14 Sep 2023 09:40:00 GMT
+Time: 2023-09-14 17:40:00
 Air Temperature: 28 degrees Celsius
 Relative Humidity: 87 per cent
+the mean UV Index recorded at King's Park : 1
+remind that: The Thunderstorm Warning has been issued. It will remain effective until 8:00 p.m. today. Thunderstorms are expected to occur over Lantau.
 Air Temperatures at Other Places:
 Hong Kong Observatory 28 degrees
 King's Park 27 degrees

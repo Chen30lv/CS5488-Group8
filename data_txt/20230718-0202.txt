@@ -1,6 +1,8 @@
-Time: Mon, 17 Jul 2023 17:29:00 GMT
+Time: 2023-07-18 01:29:00
 Air Temperature: 28 degrees Celsius
 Relative Humidity: 91 per cent
+the mean UV Index recorded at King's Park : NONE
+remind that: The Tropical Cyclone Signal No. 3 has been issued.<br/>The Thunderstorm Warning was issued at 1:28 a.m. It will remain effective until 3:30 a.m. today. A few squally thunderstorms are expected to occur over Hong Kong.
 Air Temperatures at Other Places:
 Hong Kong Observatory 28 degrees
 King's Park 27 degrees

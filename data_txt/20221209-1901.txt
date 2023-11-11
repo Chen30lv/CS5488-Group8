@@ -1,6 +1,8 @@
-Time: Fri, 09 Dec 2022 10:02:00 GMT
+Time: 2022-12-09 18:02:00
 Air Temperature: 21 degrees Celsius
 Relative Humidity: 63 per cent
+the mean UV Index recorded at King's Park : 0.0
+remind that: NONE
 Air Temperatures at Other Places:
 Hong Kong Observatory 21 degrees
 King's Park 20 degrees

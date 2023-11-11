@@ -1,6 +1,8 @@
-Time: Fri, 16 Dec 2022 19:30:00 GMT
+Time: 2022-12-17 03:30:00
 Air Temperature: 14 degrees Celsius
 Relative Humidity: 85 per cent
+the mean UV Index recorded at King's Park : NONE
+remind that: The Thunderstorm Warning was issued at 3:29 a.m. It will remain effective until 5:00 a.m. today. Isolated thunderstorms are expected to occur over Lantau, Hong Kong Island and Kowloon.<br/>The Strong Monsoon Signal has been issued.<br/>The Cold Weather Warning is now in force. Cold weather might cause adverse health effects. Members of the public should take care to keep warm.
 Air Temperatures at Other Places:
 Hong Kong Observatory 14 degrees
 King's Park 14 degrees

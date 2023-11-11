@@ -1,6 +1,8 @@
-Time: Fri, 21 Jul 2023 04:03:00 GMT
+Time: 2023-07-21 12:03:00
 Air Temperature: 31 degrees Celsius
 Relative Humidity: 74 per cent
+the mean UV Index recorded at King's Park : 8
+remind that: The Thunderstorm Warning was issued at 12:02 p.m. It will remain effective until 2:00 p.m. today. Isolated thunderstorms are expected to occur over Eastern Waters of Hong Kong.<br/>The Very Hot Weather Warning is now in force. Prolonged heat alert! Please drink sufficient water. If feeling unwell, take rest or seek help immediately. If needed, seek medical advice as soon as possible.
 Air Temperatures at Other Places:
 Hong Kong Observatory 31 degrees
 King's Park 31 degrees

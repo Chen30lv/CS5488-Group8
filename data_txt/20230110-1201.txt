@@ -1,6 +1,8 @@
-Time: Tue, 10 Jan 2023 03:02:00 GMT
+Time: 2023-01-10 11:02:00
 Air Temperature: 19 degrees Celsius
 Relative Humidity: 91 per cent
+the mean UV Index recorded at King's Park : 0.8
+remind that: NONE
 Air Temperatures at Other Places:
 Hong Kong Observatory 19 degrees
 King's Park 19 degrees

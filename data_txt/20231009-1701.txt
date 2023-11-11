@@ -1,6 +1,8 @@
-Time: Mon, 09 Oct 2023 08:51:00 GMT
+Time: 2023-10-09 16:51:00
 Air Temperature: 25 degrees Celsius
 Relative Humidity: 93 per cent
+the mean UV Index recorded at King's Park : 0.3
+remind that: The Amber Rainstorm Warning Signal has been issued.<br/>The Thunderstorm Warning has been issued. It will remain effective until 6:30 p.m. today. Severe squally thunderstorms are expected to occur over Lantau, Southern Waters and Islands of Hong Kong.<br/>The Landslip Warning has been issued.
 Air Temperatures at Other Places:
 Hong Kong Observatory 25 degrees
 King's Park 24 degrees

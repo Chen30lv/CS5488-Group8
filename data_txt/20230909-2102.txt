@@ -1,6 +1,8 @@
-Time: Sat, 09 Sep 2023 12:02:00 GMT
+Time: 2023-09-09 20:02:00
 Air Temperature: 26 degrees Celsius
 Relative Humidity: 91 per cent
+the mean UV Index recorded at King's Park : NONE
+remind that: The Landslip Warning has been issued.
 Air Temperatures at Other Places:
 Hong Kong Observatory 26 degrees
 King's Park 26 degrees

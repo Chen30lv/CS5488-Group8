@@ -1,6 +1,8 @@
-Time: Fri, 23 Jun 2023 10:27:00 GMT
+Time: 2023-06-23 18:27:00
 Air Temperature: 31 degrees Celsius
 Relative Humidity: 77 per cent
+the mean UV Index recorded at King's Park : 0.2
+remind that: The Thunderstorm Warning was issued at 6:26 p.m. It will remain effective until 7:30 p.m. today. Isolated thunderstorms are expected to occur over Lantau, New Territories West.
 Air Temperatures at Other Places:
 Hong Kong Observatory 31 degrees
 King's Park 30 degrees

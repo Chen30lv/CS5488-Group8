@@ -1,6 +1,8 @@
-Time: Mon, 31 Oct 2022 08:21:00 GMT
+Time: 2022-10-31 16:21:00
 Air Temperature: 27 degrees Celsius
 Relative Humidity: 47 per cent
+the mean UV Index recorded at King's Park : 1
+remind that: The Tropical Cyclone Signal No. 3 was issued at 4:20 p.m.<br/>The Fire Danger Warning is Red and the fire risk is extreme.
 Air Temperatures at Other Places:
 Hong Kong Observatory 27 degrees
 King's Park 26 degrees

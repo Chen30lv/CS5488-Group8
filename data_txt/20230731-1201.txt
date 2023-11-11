@@ -1,6 +1,8 @@
-Time: Mon, 31 Jul 2023 03:56:00 GMT
+Time: 2023-07-31 11:56:00
 Air Temperature: 31 degrees Celsius
 Relative Humidity: 79 per cent
+the mean UV Index recorded at King's Park : 7
+remind that: The Thunderstorm Warning was issued at 11:55 a.m. It will remain effective until 1:30 p.m. today. Isolated thunderstorms are expected to occur over New Territories.
 Air Temperatures at Other Places:
 Hong Kong Observatory 31 degrees
 King's Park 31 degrees

@@ -1,6 +1,8 @@
-Time: Wed, 07 Jun 2023 03:36:00 GMT
+Time: 2023-06-07 11:36:00
 Air Temperature: 30 degrees Celsius
 Relative Humidity: 82 per cent
+the mean UV Index recorded at King's Park : 5
+remind that: The Thunderstorm Warning has been issued. It will remain effective until 1:15 p.m. today. Isolated squally thunderstorms are expected to occur over Hong Kong.
 Air Temperatures at Other Places:
 Hong Kong Observatory 30 degrees
 King's Park 30 degrees

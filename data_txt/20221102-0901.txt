@@ -1,6 +1,8 @@
-Time: Wed, 02 Nov 2022 00:02:00 GMT
+Time: 2022-11-02 08:02:00
 Air Temperature: 19 degrees Celsius
 Relative Humidity: 86 per cent
+the mean UV Index recorded at King's Park : 0.1
+remind that: The Tropical Cyclone Signal No. 3 has been issued.
 Air Temperatures at Other Places:
 Hong Kong Observatory 19 degrees
 King's Park 19 degrees

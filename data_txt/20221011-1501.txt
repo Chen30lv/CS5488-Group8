@@ -1,6 +1,8 @@
-Time: Tue, 11 Oct 2022 06:02:00 GMT
+Time: 2022-10-11 14:02:00
 Air Temperature: 28 degrees Celsius
 Relative Humidity: 44 per cent
+the mean UV Index recorded at King's Park : 7
+remind that: The Fire Danger Warning is Red and the fire risk is extreme.
 Air Temperatures at Other Places:
 Hong Kong Observatory 28 degrees
 King's Park 26 degrees

@@ -1,6 +1,8 @@
-Time: Wed, 19 Apr 2023 14:36:00 GMT
+Time: 2023-04-19 22:36:00
 Air Temperature: 25 degrees Celsius
 Relative Humidity: 86 per cent
+the mean UV Index recorded at King's Park : NONE
+remind that: The Thunderstorm Warning has been issued. It will remain effective until 3:00 a.m. tomorrow. A few thunderstorms are expected to occur over Hong Kong.
 Air Temperatures at Other Places:
 Hong Kong Observatory 25 degrees
 King's Park 24 degrees

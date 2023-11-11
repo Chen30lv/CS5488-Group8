@@ -1,6 +1,8 @@
-Time: Fri, 23 Dec 2022 15:02:00 GMT
+Time: 2022-12-23 23:02:00
 Air Temperature: 16 degrees Celsius
 Relative Humidity: 45 per cent
+the mean UV Index recorded at King's Park : NONE
+remind that: The Fire Danger Warning is Red and the fire risk is extreme.
 Air Temperatures at Other Places:
 Hong Kong Observatory 16 degrees
 King's Park 15 degrees

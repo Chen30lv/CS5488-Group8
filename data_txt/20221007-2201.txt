@@ -1,6 +1,8 @@
-Time: Fri, 07 Oct 2022 13:02:00 GMT
+Time: 2022-10-07 21:02:00
 Air Temperature: 28 degrees Celsius
 Relative Humidity: 78 per cent
+the mean UV Index recorded at King's Park : NONE
+remind that: The Thunderstorm Warning has been issued. It will remain effective until 10:30 p.m. today. Isolated thunderstorms are expected to occur over New Territories.
 Air Temperatures at Other Places:
 Hong Kong Observatory 28 degrees
 King's Park 27 degrees

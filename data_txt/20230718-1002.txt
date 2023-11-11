@@ -1,6 +1,8 @@
-Time: Tue, 18 Jul 2023 01:02:00 GMT
+Time: 2023-07-18 09:02:00
 Air Temperature: 29 degrees Celsius
 Relative Humidity: 88 per cent
+the mean UV Index recorded at King's Park : 0.8
+remind that: The Strong Monsoon Signal has been issued.
 Air Temperatures at Other Places:
 Hong Kong Observatory 29 degrees
 King's Park 28 degrees

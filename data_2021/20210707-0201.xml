@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="current.xsl" type="text/xsl" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current Weather</title>
+    <link>
+    https://www.weather.gov.hk/en/wxinfo/currwx/current.htm</link>
+    <description>Current Weather</description>
+    <language>en-us</language>
+    <copyright>The content available in this file, including but
+    not limited to all text, graphics, drawings, diagrams,
+    photographs and compilation of data or other materials are
+    protected by copyright. The Government of the Hong Kong Special
+    Administrative Region is the owner of all copyright works
+    contained in this website.</copyright>
+    <image>
+      <title>Current Weather</title>
+      <link>https://www.weather.gov.hk/en/wxinfo/currwx/current.htm</link>
+	  <url>https://rss.weather.gov.hk/img/hko_logo.gif</url>
+      <width>80</width>
+      <height>54</height>
+    </image>
+	<atom:link href="https://rss.weather.gov.hk/rss/CurrentWeather.xml" rel="self" type="application/rss+xml" />
+    <item>
+       <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
+	  <guid isPermaLink="false">
+      http://rss.weather.gov.hk/rss/CurrentWeather/20210707010200</guid>
+<pubDate>Tue, 06 Jul 2021 17:02:00 GMT</pubDate>      <title>Bulletin updated at 01:02 HKT 07/07/2021</title>
+      <category>R</category>
+      <link>
+      https://www.weather.gov.hk/en/wxinfo/currwx/current.htm</link>
+        <description>
+        <![CDATA[
+         <img src="https://rss.weather.gov.hk/img/pic63.png" style="vertical-align: middle;">        <p>At 
+        1 a.m. 
+               at the Hong Kong Observatory :<br/>
+        Air temperature : 27 degrees Celsius<br/>
+        Relative Humidity : 95 per cent<br/>
+		 										    																									<br/><font color="red"><SPAN id='warning_message' >Please be reminded that:<br/>The Tropical Cyclone Signal No. 1 has been issued.<br/>The Thunderstorm Warning has been issued. It will remain effective until 4:00 a.m. today. Isolated squally thunderstorms are expected to occur over Hong Kong.<br/></SPAN><br/>		</font>                The air temperatures at other places were:
+                <br/>
+                <font size="-1">
+    <table border="0" cellspacing="0" cellpadding="0">
+    <tr><td><font size="-1">Hong Kong Observatory</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Wong Chuk Hang</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Ta Kwu Ling</font></td><td width="100" align="right"><font size="-1">28 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Lau Fau Shan</font></td><td width="100" align="right"><font size="-1">26 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Tai Po</font></td><td width="100" align="right"><font size="-1">28 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Sha Tin</font></td><td width="100" align="right"><font size="-1">28 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Tuen Mun</font></td><td width="100" align="right"><font size="-1">26 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Tseung Kwan O</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Sai Kung</font></td><td width="100" align="right"><font size="-1">29 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Cheung Chau</font></td><td width="100" align="right"><font size="-1">26 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Chek Lap Kok</font></td><td width="100" align="right"><font size="-1">28 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Tsing Yi</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Shek Kong</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Tsuen Wan Ho Koon</font></td><td width="100" align="right"><font size="-1">25 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Tsuen Wan Shing Mun Valley</font></td><td width="100" align="right"><font size="-1">26 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Hong Kong Park</font></td><td width="100" align="right"><font size="-1">26 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Shau Kei Wan</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Kowloon City</font></td><td width="100" align="right"><font size="-1">26 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Happy Valley</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Wong Tai Sin</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Stanley</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Kwun Tong</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Sham Shui Po</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Kai Tak Runway Park</font></td><td width="100" align="right"><font size="-1">28 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Yuen Long Park</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Tai Mei Tuk</font></td><td width="100" align="right"><font size="-1">28 degrees .</font></td></tr>
+    </table></font></p>
+Between 11:45 p.m. and 0:45 a.m., lightning was detected over all regions. The rainfall recorded in various regions were:<br/><br/>    <table border="0" cellspacing="0" cellpadding="0">
+                <tr><td>Kwai Tsing</td><td width="100" align="right">8 to 22&nbsp;mm;</td></tr>
+            <tr><td>Wong Tai Sin</td><td width="100" align="right">8 to 11&nbsp;mm;</td></tr>
+            <tr><td>Eastern District</td><td width="100" align="right">7 to 17&nbsp;mm;</td></tr>
+            <tr><td>Tsuen Wan</td><td width="100" align="right">3 to 22&nbsp;mm;</td></tr>
+            <tr><td>Sham Shui Po</td><td width="100" align="right">21 to 22&nbsp;mm;</td></tr>
+            <tr><td>Tuen Mun</td><td width="100" align="right">2 to 8&nbsp;mm;</td></tr>
+            <tr><td>Central &amp; Western District</td><td width="100" align="right">2 to 11&nbsp;mm;</td></tr>
+            <tr><td>Yau Tsim Mong</td><td width="100" align="right">18 to 27&nbsp;mm;</td></tr>
+            <tr><td>Kwun Tong</td><td width="100" align="right">15 to 20&nbsp;mm;</td></tr>
+            <tr><td>Kowloon City</td><td width="100" align="right">13 to 26&nbsp;mm;</td></tr>
+            <tr><td>Wan Chai</td><td width="100" align="right">1 to 12&nbsp;mm;</td></tr>
+            <tr><td>Yuen Long</td><td width="100" align="right">0 to 4&nbsp;mm;</td></tr>
+            <tr><td>Sai Kung</td><td width="100" align="right">0 to 20&nbsp;mm;</td></tr>
+            <tr><td>Sha Tin</td><td width="100" align="right">0 to 13&nbsp;mm;</td></tr>
+            <tr><td>Islands District</td><td width="100" align="right">0 to 11&nbsp;mm;</td></tr>
+            <tr><td>Southern District</td><td width="100" align="right">0 to 11&nbsp;mm;</td></tr>
+            <tr><td>Tai Po</td><td width="100" align="right">0 to 1&nbsp;mm.</td></tr>
+        </table><br/>
+Here is the information on Tropical Depression:
+<br/>Location: 17.6 degrees north, 111.7 degrees east; Maximum sustained wind near its centre: 55 km/h.<br/><br/>        ]]>
+        </description>
+    </item>
+  </channel>
+</rss>
